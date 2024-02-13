@@ -1,0 +1,2 @@
+qz.exe filter=lfs diff=lfs merge=lfs -text
+qz.run filter=lfs diff=lfs merge=lfs -text
